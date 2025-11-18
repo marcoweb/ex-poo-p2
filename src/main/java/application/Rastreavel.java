@@ -1,6 +1,6 @@
 package application;
 
 public interface Rastreavel {
-    String obterCodigoRestreamento();
+    String obterCodigoRastreamento();
     String verificarStatusRastreamento();
 }
